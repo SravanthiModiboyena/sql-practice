@@ -23,6 +23,10 @@ This repository contains MYSQL and SQL practice queries.
 - Indexing
 - Transaction
 - ACID properties
+          * Atomicity (All or None)
+          * Consistency (Correctness & rejects invalid data)
+          * Isolation (works as only transaction even many transactions runs)
+          * Durability (Crash safety)
 
 ## Tools used
 - MySQL 8.0
