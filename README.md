@@ -5,9 +5,13 @@ This repository contains MYSQL and SQL practice queries.
 ## Topics Covered 
 - Database Creation
 - Table Creation
-- Insert queries
-- Select queries
+- Insert data
+- Select
+- From 
 - Where clause
+- order by
+- Group by
+- Aggregate Functions
 - Having Clause
 - Joins
        * Inner Join
@@ -17,6 +21,8 @@ This repository contains MYSQL and SQL practice queries.
        * Self Join
        * Cross Join
 - Indexing
+- Transaction
+- ACID properties
 
 ## Tools used
 - MySQL 8.0
