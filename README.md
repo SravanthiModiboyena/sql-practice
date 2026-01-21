@@ -7,6 +7,8 @@ This repository contains MYSQL and SQL practice queries.
 - DDL (Data Definition Language) --> Create, Alter, Drop, Truncate, Rename
 - DQL (Data Query Language) --> Select
 - DML (Data Manipulation Language) --> Insert, Update, Delete, Merge
+- DCL (Data Control Language) --> Grant, Revoke
+- TCL (Transaction Control Language) --> Manage transactions 
 - Table Creation
 - Insert data
 - Select
