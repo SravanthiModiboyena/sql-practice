@@ -4,6 +4,9 @@ This repository contains MYSQL and SQL practice queries.
 
 ## Topics Covered 
 - Database Creation
+- DDL (Data Definition Language) --> Create, Alter, Drop, Truncate, Rename
+- DQL (Data Query Language) --> Select
+- DML (Data Manipulation Language) --> Insert, Update, Delete, Merge
 - Table Creation
 - Insert data
 - Select
